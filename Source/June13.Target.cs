@@ -5,21 +5,12 @@ using System.Collections.Generic;
 
 public class June13Target : TargetRules
 {
-	public June13Target(TargetInfo Target)
+	public June13Target(TargetInfo Target) : base (Target)
 	{
 		Type = TargetType.Game;
+
+		ExtraModuleNames.Add("June13");
 	}
 
-	//
-	// TargetRules interface.
-	//
 
-	public override void SetupBinaries(
-		TargetInfo Target,
-		ref List<UEBuildBinaryConfiguration> OutBuildBinaryConfigurations,
-		ref List<string> OutExtraModuleNames
-		)
-	{
-		OutExtraModuleNames.AddRange( new string[] { "June13" } );
-	}
 }
