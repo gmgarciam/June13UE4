@@ -5,12 +5,9 @@ using System.Collections.Generic;
 
 public class June13EditorTarget : TargetRules
 {
-
 	public June13EditorTarget(TargetInfo Target) : base (Target)
 	{
 		Type = TargetType.Editor;
-
 		ExtraModuleNames.Add("June13");
 	}
-
 }

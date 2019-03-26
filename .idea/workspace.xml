@@ -2,156 +2,156 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="UE4" targetName="UE4Server-Linux-DebugGame" />
-      <config projectName="UE4" targetName="BootstrapPackagedGame-Linux-Shipping" />
-      <config projectName="UE4" targetName="SlateViewer" />
-      <config projectName="UE4" targetName="UnrealFrontend" />
-      <config projectName="UE4" targetName="UE4Editor-Linux-Test" />
-      <config projectName="UE4" targetName="UnrealCEFSubProcess-Linux-Debug" />
-      <config projectName="UE4" targetName="UE4Client-Linux-Shipping" />
-      <config projectName="UE4" targetName="UnrealPak" />
-      <config projectName="UE4" targetName="UnrealHeaderTool" />
-      <config projectName="UE4" targetName="MayaLiveLinkPlugin2018-Linux-Shipping" />
-      <config projectName="UE4" targetName="UE4EditorServices-Linux-Shipping" />
-      <config projectName="UE4" targetName="BlankProgram" />
-      <config projectName="UE4" targetName="BuildPatchTool-Linux-Test" />
-      <config projectName="UE4" targetName="DsymExporter-Linux-Test" />
       <config projectName="UE4" targetName="UnrealLaunchDaemon-Linux-DebugGame" />
-      <config projectName="UE4" targetName="BlankProgram-Linux-DebugGame" />
-      <config projectName="UE4" targetName="MayaLiveLinkPlugin2018-Linux-Test" />
-      <config projectName="UE4" targetName="UnrealPak-Linux-Test" />
-      <config projectName="UE4" targetName="UE4EditorServices-Linux-Test" />
-      <config projectName="UE4" targetName="MayaLiveLinkPlugin2016-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UnrealFrontend-Linux-Debug" />
       <config projectName="UE4" targetName="June13-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UnrealPak-Linux-Debug" />
-      <config projectName="UE4" targetName="UE4Server-Linux-Test" />
-      <config projectName="UE4" targetName="UnrealAtoS" />
-      <config projectName="UE4" targetName="UnrealPak-Linux-DebugGame" />
-      <config projectName="UE4" targetName="BuildPatchTool" />
-      <config projectName="UE4" targetName="UnrealLaunchDaemon-Linux-Shipping" />
-      <config projectName="UE4" targetName="ShaderCompileWorker-Linux-Test" />
-      <config projectName="UE4" targetName="June13Editor-Linux-Debug" />
-      <config projectName="UE4" targetName="MinidumpDiagnostics-Linux-Shipping" />
-      <config projectName="UE4" targetName="June13Editor-Linux-Shipping" />
-      <config projectName="UE4" targetName="UE4Server-Linux-Shipping" />
-      <config projectName="UE4" targetName="FakeTarget" />
-      <config projectName="UE4" targetName="TestPAL-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UnrealVersionSelector-Linux-Debug" />
-      <config projectName="UE4" targetName="MayaLiveLinkPlugin2018-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UE4Game-Linux-Debug" />
-      <config projectName="UE4" targetName="MayaLiveLinkPlugin2016-Linux-Test" />
-      <config projectName="UE4" targetName="BootstrapPackagedGame-Linux-Debug" />
-      <config projectName="UE4" targetName="UnrealFrontend-Linux-Shipping" />
-      <config projectName="UE4" targetName="BlankProgram-Linux-Shipping" />
-      <config projectName="UE4" targetName="MayaLiveLinkPlugin2017-Linux-Shipping" />
-      <config projectName="UE4" targetName="UnrealAtoS-Linux-Shipping" />
-      <config projectName="UE4" targetName="CrashReportClient-Linux-DebugGame" />
-      <config projectName="UE4" targetName="SymbolDebugger-Linux-Debug" />
-      <config projectName="UE4" targetName="UnrealWatchdog-Linux-Test" />
-      <config projectName="UE4" targetName="June13-Linux-Shipping" />
-      <config projectName="UE4" targetName="UE4Editor-Linux-Shipping" />
-      <config projectName="UE4" targetName="UnrealLaunchDaemon-Linux-Debug" />
-      <config projectName="UE4" targetName="UE4Server" />
-      <config projectName="UE4" targetName="UnrealFileServer-Linux-Debug" />
-      <config projectName="UE4" targetName="UnrealWatchdog-Linux-Debug" />
-      <config projectName="UE4" targetName="SymbolDebugger-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UE4Game-Linux-Test" />
-      <config projectName="UE4" targetName="BootstrapPackagedGame" />
-      <config projectName="UE4" targetName="TestPAL-Linux-Test" />
-      <config projectName="UE4" targetName="TestPAL-Linux-Debug" />
-      <config projectName="UE4" targetName="BlankProgram-Linux-Test" />
-      <config projectName="UE4" targetName="MinidumpDiagnostics-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UnrealFileServer" />
-      <config projectName="UE4" targetName="UnrealLightmass" />
-      <config projectName="UE4" targetName="MinidumpDiagnostics" />
-      <config projectName="UE4" targetName="June13-Linux-Debug" />
-      <config projectName="UE4" targetName="UnrealFrontend-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UnrealLightmass-Linux-Shipping" />
-      <config projectName="UE4" targetName="ShaderCompileWorker-Linux-Debug" />
-      <config projectName="UE4" targetName="MayaLiveLinkPlugin2016-Linux-Debug" />
-      <config projectName="UE4" targetName="ShaderCompileWorker-Linux-Shipping" />
-      <config projectName="UE4" targetName="UnrealCEFSubProcess-Linux-DebugGame" />
-      <config projectName="UE4" targetName="MayaLiveLinkPlugin2017-Linux-Debug" />
-      <config projectName="UE4" targetName="SlateViewer-Linux-Shipping" />
-      <config projectName="UE4" targetName="SymbolDebugger-Linux-Test" />
-      <config projectName="UE4" targetName="UnrealAtoS-Linux-Test" />
-      <config projectName="UE4" targetName="MayaLiveLinkPlugin2018-Linux-Debug" />
-      <config projectName="UE4" targetName="BuildPatchTool-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UnrealCEFSubProcess-Linux-Shipping" />
-      <config projectName="UE4" targetName="June13Editor" />
-      <config projectName="UE4" targetName="UE4Game-Linux-DebugGame" />
-      <config projectName="UE4" targetName="SlateViewer-Linux-DebugGame" />
-      <config projectName="UE4" targetName="BootstrapPackagedGame-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UnrealWatchdog-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UnrealWatchdog" />
-      <config projectName="UE4" targetName="DsymExporter" />
-      <config projectName="UE4" targetName="SlateViewer-Linux-Debug" />
-      <config projectName="UE4" targetName="BuildPatchTool-Linux-Shipping" />
-      <config projectName="UE4" targetName="TestPAL-Linux-Shipping" />
-      <config projectName="UE4" targetName="DsymExporter-Linux-Debug" />
-      <config projectName="UE4" targetName="DsymExporter-Linux-Shipping" />
-      <config projectName="UE4" targetName="UnrealLaunchDaemon" />
-      <config projectName="UE4" targetName="UnrealWatchdog-Linux-Shipping" />
-      <config projectName="UE4" targetName="UE4Client" />
-      <config projectName="UE4" targetName="UE4Editor-Linux-DebugGame" />
-      <config projectName="UE4" targetName="BuildPatchTool-Linux-Debug" />
-      <config projectName="UE4" targetName="MayaLiveLinkPlugin2016" />
-      <config projectName="UE4" targetName="MayaLiveLinkPlugin2017" />
-      <config projectName="UE4" targetName="CrashReportClient-Linux-Shipping" />
-      <config projectName="UE4" targetName="MayaLiveLinkPlugin2018" />
-      <config projectName="UE4" targetName="UnrealVersionSelector-Linux-Test" />
-      <config projectName="UE4" targetName="UnrealCEFSubProcess" />
-      <config projectName="UE4" targetName="UnrealFileServer-Linux-Shipping" />
-      <config projectName="UE4" targetName="CrashReportClient-Linux-Debug" />
-      <config projectName="UE4" targetName="ShaderCompileWorker-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UnrealVersionSelector-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UnrealLightmass-Linux-Debug" />
-      <config projectName="UE4" targetName="MayaLiveLinkPlugin2016-Linux-Shipping" />
-      <config projectName="UE4" targetName="UE4Server-Linux-Debug" />
-      <config projectName="UE4" targetName="CrashReportClient" />
-      <config projectName="UE4" targetName="SymbolDebugger" />
-      <config projectName="UE4" targetName="SymbolDebugger-Linux-Shipping" />
-      <config projectName="UE4" targetName="MayaLiveLinkPlugin2017-Linux-Test" />
-      <config projectName="UE4" targetName="ShaderCompileWorker" />
-      <config projectName="UE4" targetName="UnrealFileServer-Linux-Test" />
-      <config projectName="UE4" targetName="UnrealPak-Linux-Shipping" />
-      <config projectName="UE4" targetName="UE4Game" />
-      <config projectName="UE4" targetName="UnrealVersionSelector" />
-      <config projectName="UE4" targetName="UE4Client-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UE4Client-Linux-Test" />
-      <config projectName="UE4" targetName="UE4Editor" />
-      <config projectName="UE4" targetName="UE4EditorServices" />
-      <config projectName="UE4" targetName="UnrealFrontend-Linux-Test" />
-      <config projectName="UE4" targetName="UnrealLaunchDaemon-Linux-Test" />
-      <config projectName="UE4" targetName="DsymExporter-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UnrealAtoS-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UnrealHeaderTool-Linux-Test" />
-      <config projectName="UE4" targetName="UnrealLightmass-Linux-Test" />
-      <config projectName="UE4" targetName="June13Editor-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UnrealCEFSubProcess-Linux-Test" />
-      <config projectName="UE4" targetName="UnrealHeaderTool-Linux-Shipping" />
-      <config projectName="UE4" targetName="CrashReportClient-Linux-Test" />
-      <config projectName="UE4" targetName="BootstrapPackagedGame-Linux-Test" />
-      <config projectName="UE4" targetName="UnrealVersionSelector-Linux-Shipping" />
-      <config projectName="UE4" targetName="June13Editor-Linux-Test" />
-      <config projectName="UE4" targetName="MinidumpDiagnostics-Linux-Debug" />
-      <config projectName="UE4" targetName="UnrealFileServer-Linux-DebugGame" />
-      <config projectName="UE4" targetName="UE4Client-Linux-Debug" />
-      <config projectName="UE4" targetName="UE4Game-Linux-Shipping" />
-      <config projectName="UE4" targetName="MinidumpDiagnostics-Linux-Test" />
-      <config projectName="UE4" targetName="UnrealLightmass-Linux-DebugGame" />
-      <config projectName="UE4" targetName="SlateViewer-Linux-Test" />
-      <config projectName="UE4" targetName="UnrealAtoS-Linux-Debug" />
-      <config projectName="UE4" targetName="UE4EditorServices-Linux-Debug" />
-      <config projectName="UE4" targetName="UnrealHeaderTool-Linux-Debug" />
-      <config projectName="UE4" targetName="June13-Linux-Test" />
-      <config projectName="UE4" targetName="TestPAL" />
       <config projectName="UE4" targetName="BlankProgram-Linux-Debug" />
-      <config projectName="UE4" targetName="UE4EditorServices-Linux-DebugGame" />
+      <config projectName="UE4" targetName="June13-Linux-Debug" />
+      <config projectName="UE4" targetName="UnrealLightmass-Linux-Debug" />
+      <config projectName="UE4" targetName="SlateViewer" />
+      <config projectName="UE4" targetName="UE4EditorServices-Linux-Test" />
+      <config projectName="UE4" targetName="MinidumpDiagnostics-Linux-Test" />
+      <config projectName="UE4" targetName="UE4Editor" />
+      <config projectName="UE4" targetName="UnrealWatchdog" />
+      <config projectName="UE4" targetName="DsymExporter-Linux-Debug" />
+      <config projectName="UE4" targetName="UnrealFileServer-Linux-DebugGame" />
+      <config projectName="UE4" targetName="UE4Client-Linux-Test" />
+      <config projectName="UE4" targetName="UnrealPak-Linux-Shipping" />
+      <config projectName="UE4" targetName="MayaLiveLinkPlugin2018-Linux-Test" />
+      <config projectName="UE4" targetName="MayaLiveLinkPlugin2017-Linux-Test" />
+      <config projectName="UE4" targetName="MayaLiveLinkPlugin2016-Linux-Test" />
+      <config projectName="UE4" targetName="MayaLiveLinkPlugin2017-Linux-Debug" />
+      <config projectName="UE4" targetName="DsymExporter-Linux-Test" />
+      <config projectName="UE4" targetName="UE4EditorServices-Linux-Shipping" />
+      <config projectName="UE4" targetName="BootstrapPackagedGame" />
+      <config projectName="UE4" targetName="MinidumpDiagnostics-Linux-Shipping" />
+      <config projectName="UE4" targetName="UnrealCEFSubProcess" />
+      <config projectName="UE4" targetName="June13Editor-Linux-Shipping" />
+      <config projectName="UE4" targetName="UE4Client-Linux-Debug" />
+      <config projectName="UE4" targetName="UnrealCEFSubProcess-Linux-DebugGame" />
+      <config projectName="UE4" targetName="MayaLiveLinkPlugin2016-Linux-DebugGame" />
+      <config projectName="UE4" targetName="UnrealFileServer-Linux-Debug" />
       <config projectName="UE4" targetName="UE4Editor-Linux-Debug" />
-      <config projectName="UE4" targetName="UnrealHeaderTool-Linux-DebugGame" />
+      <config projectName="UE4" targetName="MayaLiveLinkPlugin2018" />
+      <config projectName="UE4" targetName="ShaderCompileWorker" />
+      <config projectName="UE4" targetName="UE4Editor-Linux-Test" />
       <config projectName="UE4" targetName="MayaLiveLinkPlugin2017-Linux-DebugGame" />
+      <config projectName="UE4" targetName="UE4Editor-Linux-Shipping" />
+      <config projectName="UE4" targetName="SymbolDebugger-Linux-DebugGame" />
+      <config projectName="UE4" targetName="TestPAL-Linux-Debug" />
+      <config projectName="UE4" targetName="DsymExporter" />
+      <config projectName="UE4" targetName="SlateViewer-Linux-Test" />
+      <config projectName="UE4" targetName="UE4EditorServices-Linux-Debug" />
+      <config projectName="UE4" targetName="UnrealPak-Linux-Debug" />
+      <config projectName="UE4" targetName="TestPAL-Linux-DebugGame" />
+      <config projectName="UE4" targetName="June13Editor-Linux-Test" />
+      <config projectName="UE4" targetName="MayaLiveLinkPlugin2018-Linux-DebugGame" />
+      <config projectName="UE4" targetName="SymbolDebugger-Linux-Debug" />
+      <config projectName="UE4" targetName="UnrealCEFSubProcess-Linux-Test" />
+      <config projectName="UE4" targetName="UnrealAtoS-Linux-Shipping" />
+      <config projectName="UE4" targetName="SlateViewer-Linux-Shipping" />
+      <config projectName="UE4" targetName="MayaLiveLinkPlugin2016-Linux-Shipping" />
+      <config projectName="UE4" targetName="TestPAL-Linux-Test" />
+      <config projectName="UE4" targetName="UnrealLightmass-Linux-Test" />
+      <config projectName="UE4" targetName="BuildPatchTool-Linux-Shipping" />
+      <config projectName="UE4" targetName="June13Editor-Linux-Debug" />
+      <config projectName="UE4" targetName="UnrealFileServer-Linux-Test" />
+      <config projectName="UE4" targetName="UE4Server" />
+      <config projectName="UE4" targetName="June13-Linux-Shipping" />
+      <config projectName="UE4" targetName="UnrealFrontend-Linux-Debug" />
+      <config projectName="UE4" targetName="CrashReportClient" />
+      <config projectName="UE4" targetName="UnrealVersionSelector-Linux-DebugGame" />
+      <config projectName="UE4" targetName="BlankProgram-Linux-Shipping" />
+      <config projectName="UE4" targetName="BootstrapPackagedGame-Linux-Shipping" />
+      <config projectName="UE4" targetName="SlateViewer-Linux-Debug" />
+      <config projectName="UE4" targetName="MayaLiveLinkPlugin2017" />
+      <config projectName="UE4" targetName="MayaLiveLinkPlugin2016" />
+      <config projectName="UE4" targetName="MinidumpDiagnostics-Linux-DebugGame" />
+      <config projectName="UE4" targetName="CrashReportClient-Linux-Debug" />
+      <config projectName="UE4" targetName="June13Editor" />
+      <config projectName="UE4" targetName="UnrealFrontend-Linux-Shipping" />
+      <config projectName="UE4" targetName="MinidumpDiagnostics" />
+      <config projectName="UE4" targetName="UnrealWatchdog-Linux-DebugGame" />
+      <config projectName="UE4" targetName="UE4Game-Linux-Debug" />
+      <config projectName="UE4" targetName="UnrealCEFSubProcess-Linux-Shipping" />
+      <config projectName="UE4" targetName="TestPAL-Linux-Shipping" />
+      <config projectName="UE4" targetName="UnrealAtoS-Linux-Debug" />
+      <config projectName="UE4" targetName="CrashReportClient-Linux-Shipping" />
+      <config projectName="UE4" targetName="MayaLiveLinkPlugin2016-Linux-Debug" />
+      <config projectName="UE4" targetName="SymbolDebugger-Linux-Shipping" />
+      <config projectName="UE4" targetName="UnrealFrontend-Linux-DebugGame" />
+      <config projectName="UE4" targetName="MayaLiveLinkPlugin2018-Linux-Debug" />
+      <config projectName="UE4" targetName="SymbolDebugger-Linux-Test" />
+      <config projectName="UE4" targetName="UE4Server-Linux-DebugGame" />
+      <config projectName="UE4" targetName="UnrealWatchdog-Linux-Debug" />
+      <config projectName="UE4" targetName="UnrealHeaderTool-Linux-Debug" />
+      <config projectName="UE4" targetName="TestPAL" />
+      <config projectName="UE4" targetName="UE4EditorServices-Linux-DebugGame" />
+      <config projectName="UE4" targetName="UnrealPak" />
+      <config projectName="UE4" targetName="BuildPatchTool" />
+      <config projectName="UE4" targetName="UnrealHeaderTool" />
+      <config projectName="UE4" targetName="MinidumpDiagnostics-Linux-Debug" />
+      <config projectName="UE4" targetName="UnrealFileServer" />
+      <config projectName="UE4" targetName="BuildPatchTool-Linux-Test" />
+      <config projectName="UE4" targetName="ShaderCompileWorker-Linux-Debug" />
+      <config projectName="UE4" targetName="UE4Server-Linux-Test" />
+      <config projectName="UE4" targetName="UnrealHeaderTool-Linux-Test" />
+      <config projectName="UE4" targetName="UE4Game-Linux-Shipping" />
+      <config projectName="UE4" targetName="UnrealLightmass-Linux-DebugGame" />
+      <config projectName="UE4" targetName="BlankProgram-Linux-Test" />
+      <config projectName="UE4" targetName="UE4Editor-Linux-DebugGame" />
+      <config projectName="UE4" targetName="UnrealVersionSelector-Linux-Debug" />
+      <config projectName="UE4" targetName="CrashReportClient-Linux-Test" />
+      <config projectName="UE4" targetName="UnrealFileServer-Linux-Shipping" />
+      <config projectName="UE4" targetName="ShaderCompileWorker-Linux-Shipping" />
+      <config projectName="UE4" targetName="ShaderCompileWorker-Linux-DebugGame" />
+      <config projectName="UE4" targetName="UE4Server-Linux-Shipping" />
+      <config projectName="UE4" targetName="DsymExporter-Linux-DebugGame" />
+      <config projectName="UE4" targetName="UnrealHeaderTool-Linux-DebugGame" />
+      <config projectName="UE4" targetName="UnrealWatchdog-Linux-Test" />
+      <config projectName="UE4" targetName="MayaLiveLinkPlugin2017-Linux-Shipping" />
+      <config projectName="UE4" targetName="UnrealCEFSubProcess-Linux-Debug" />
+      <config projectName="UE4" targetName="UnrealAtoS-Linux-DebugGame" />
+      <config projectName="UE4" targetName="DsymExporter-Linux-Shipping" />
+      <config projectName="UE4" targetName="UnrealWatchdog-Linux-Shipping" />
+      <config projectName="UE4" targetName="UnrealLightmass" />
+      <config projectName="UE4" targetName="BootstrapPackagedGame-Linux-Test" />
+      <config projectName="UE4" targetName="UnrealLaunchDaemon-Linux-Shipping" />
+      <config projectName="UE4" targetName="UnrealVersionSelector-Linux-Shipping" />
+      <config projectName="UE4" targetName="SymbolDebugger" />
+      <config projectName="UE4" targetName="UE4Client" />
+      <config projectName="UE4" targetName="BuildPatchTool-Linux-Debug" />
+      <config projectName="UE4" targetName="UnrealFrontend" />
+      <config projectName="UE4" targetName="UnrealLaunchDaemon-Linux-Test" />
+      <config projectName="UE4" targetName="UnrealVersionSelector-Linux-Test" />
+      <config projectName="UE4" targetName="UnrealAtoS-Linux-Test" />
+      <config projectName="UE4" targetName="BlankProgram" />
+      <config projectName="UE4" targetName="UnrealHeaderTool-Linux-Shipping" />
+      <config projectName="UE4" targetName="UnrealLaunchDaemon" />
+      <config projectName="UE4" targetName="UnrealVersionSelector" />
+      <config projectName="UE4" targetName="UE4Server-Linux-Debug" />
+      <config projectName="UE4" targetName="UE4Game-Linux-DebugGame" />
+      <config projectName="UE4" targetName="June13-Linux-Test" />
+      <config projectName="UE4" targetName="BuildPatchTool-Linux-DebugGame" />
+      <config projectName="UE4" targetName="UnrealFrontend-Linux-Test" />
+      <config projectName="UE4" targetName="BlankProgram-Linux-DebugGame" />
+      <config projectName="UE4" targetName="BootstrapPackagedGame-Linux-DebugGame" />
+      <config projectName="UE4" targetName="BootstrapPackagedGame-Linux-Debug" />
+      <config projectName="UE4" targetName="UnrealLaunchDaemon-Linux-Debug" />
+      <config projectName="UE4" targetName="ShaderCompileWorker-Linux-Test" />
+      <config projectName="UE4" targetName="CrashReportClient-Linux-DebugGame" />
+      <config projectName="UE4" targetName="UnrealPak-Linux-DebugGame" />
+      <config projectName="UE4" targetName="UE4EditorServices" />
+      <config projectName="UE4" targetName="UE4Game" />
+      <config projectName="UE4" targetName="SlateViewer-Linux-DebugGame" />
+      <config projectName="UE4" targetName="UE4Client-Linux-DebugGame" />
+      <config projectName="UE4" targetName="MayaLiveLinkPlugin2018-Linux-Shipping" />
+      <config projectName="UE4" targetName="UnrealAtoS" />
+      <config projectName="UE4" targetName="June13Editor-Linux-DebugGame" />
+      <config projectName="UE4" targetName="UE4Client-Linux-Shipping" />
+      <config projectName="UE4" targetName="UE4Game-Linux-Test" />
+      <config projectName="UE4" targetName="UnrealPak-Linux-Test" />
+      <config projectName="UE4" targetName="FakeTarget" />
+      <config projectName="UE4" targetName="UnrealLightmass-Linux-Shipping" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -161,12 +161,170 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca88032b-12c7-4c3f-8309-07962ace96d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June13.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/June13.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/June13ModuleRules.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/June13ModuleRules.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Linux/June13Editor/DependencyCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Linux/June13Editor/DependencyCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/June13.Target.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/June13.Target.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/June13/June13.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/June13/June13.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/June13/June13.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/June13/June13.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/June13/June13.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/June13/June13.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/June13Editor.Target.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/June13Editor.Target.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BlankProgram-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BlankProgram-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BlankProgram-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BlankProgram-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BlankProgram-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BlankProgram-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BlankProgram-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BlankProgram-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BlankProgram.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BlankProgram.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BootstrapPackagedGame-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BootstrapPackagedGame-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BootstrapPackagedGame-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BootstrapPackagedGame-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BootstrapPackagedGame-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BootstrapPackagedGame-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BootstrapPackagedGame-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BootstrapPackagedGame-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BootstrapPackagedGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BootstrapPackagedGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BuildPatchTool-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BuildPatchTool-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BuildPatchTool-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BuildPatchTool-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BuildPatchTool-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BuildPatchTool-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BuildPatchTool-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BuildPatchTool-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BuildPatchTool.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/BuildPatchTool.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/CrashReportClient-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/CrashReportClient-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/CrashReportClient-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/CrashReportClient-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/CrashReportClient-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/CrashReportClient-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/CrashReportClient-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/CrashReportClient-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/CrashReportClient.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/CrashReportClient.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/DsymExporter-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/DsymExporter-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/DsymExporter-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/DsymExporter-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/DsymExporter-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/DsymExporter-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/DsymExporter-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/DsymExporter-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/DsymExporter.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/DsymExporter.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/FakeTarget.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/FakeTarget.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13Editor-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13Editor-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13Editor-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13Editor-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13Editor-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13Editor-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13Editor-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13Editor-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13Editor.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/June13Editor.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2016-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2016-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2016-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2016-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2016-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2016-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2016-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2016-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2016.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2016.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2017-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2017-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2017-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2017-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2017-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2017-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2017-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2017-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2017.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2017.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2018-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2018-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2018-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2018-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2018-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2018-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2018-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2018-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2018.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MayaLiveLinkPlugin2018.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MinidumpDiagnostics-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MinidumpDiagnostics-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MinidumpDiagnostics-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MinidumpDiagnostics-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MinidumpDiagnostics-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MinidumpDiagnostics-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MinidumpDiagnostics-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MinidumpDiagnostics-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MinidumpDiagnostics.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/MinidumpDiagnostics.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/ShaderCompileWorker-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/ShaderCompileWorker-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/ShaderCompileWorker-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/ShaderCompileWorker-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/ShaderCompileWorker-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/ShaderCompileWorker-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/ShaderCompileWorker-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/ShaderCompileWorker-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/ShaderCompileWorker.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/ShaderCompileWorker.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SlateViewer-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SlateViewer-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SlateViewer-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SlateViewer-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SlateViewer-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SlateViewer-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SlateViewer-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SlateViewer-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SlateViewer.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SlateViewer.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SymbolDebugger-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SymbolDebugger-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SymbolDebugger-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SymbolDebugger-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SymbolDebugger-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SymbolDebugger-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SymbolDebugger-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SymbolDebugger-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SymbolDebugger.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/SymbolDebugger.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/TestPAL-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/TestPAL-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/TestPAL-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/TestPAL-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/TestPAL-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/TestPAL-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/TestPAL-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/TestPAL-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/TestPAL.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/TestPAL.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Client-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Client-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Client-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Client-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Client-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Client-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Client-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Client-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Client.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Client.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Editor-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Editor-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Editor-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Editor-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Editor-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Editor-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Editor-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Editor-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Editor.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Editor.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4EditorServices-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4EditorServices-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4EditorServices-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4EditorServices-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4EditorServices-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4EditorServices-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4EditorServices-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4EditorServices-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4EditorServices.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4EditorServices.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Game-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Game-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Game-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Game-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Game-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Game-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Game-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Game-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Game.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Game.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Server-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Server-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Server-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Server-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Server-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Server-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Server-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Server-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Server.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UE4Server.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealAtoS-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealAtoS-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealAtoS-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealAtoS-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealAtoS-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealAtoS-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealAtoS-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealAtoS-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealAtoS.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealAtoS.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealCEFSubProcess-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealCEFSubProcess-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealCEFSubProcess-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealCEFSubProcess-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealCEFSubProcess-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealCEFSubProcess-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealCEFSubProcess-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealCEFSubProcess-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealCEFSubProcess.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealCEFSubProcess.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFileServer-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFileServer-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFileServer-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFileServer-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFileServer-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFileServer-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFileServer-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFileServer-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFileServer.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFileServer.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFrontend-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFrontend-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFrontend-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFrontend-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFrontend-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFrontend-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFrontend-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFrontend-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFrontend.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealFrontend.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealHeaderTool-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealHeaderTool-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealHeaderTool-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealHeaderTool-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealHeaderTool-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealHeaderTool-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealHeaderTool-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealHeaderTool-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealHeaderTool.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealHeaderTool.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLaunchDaemon-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLaunchDaemon-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLaunchDaemon-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLaunchDaemon-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLaunchDaemon-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLaunchDaemon-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLaunchDaemon-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLaunchDaemon-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLaunchDaemon.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLaunchDaemon.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLightmass-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLightmass-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLightmass-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLightmass-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLightmass-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLightmass-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLightmass-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLightmass-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLightmass.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealLightmass.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealPak-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealPak-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealPak-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealPak-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealPak-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealPak-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealPak-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealPak-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealPak.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealPak.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealVersionSelector-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealVersionSelector-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealVersionSelector-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealVersionSelector-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealVersionSelector-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealVersionSelector-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealVersionSelector-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealVersionSelector-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealVersionSelector.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealVersionSelector.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealWatchdog-Linux-Debug.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealWatchdog-Linux-Debug.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealWatchdog-Linux-DebugGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealWatchdog-Linux-DebugGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealWatchdog-Linux-Shipping.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealWatchdog-Linux-Shipping.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealWatchdog-Linux-Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealWatchdog-Linux-Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealWatchdog.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/UnrealWatchdog.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-default/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-default/Makefile" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-default/" />
@@ -176,52 +334,54 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Default" />
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>June13</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2638" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
+        <option value="$PROJECT_DIR$/Source/June13Editor.Target.cs" />
+        <option value="$PROJECT_DIR$/Source/June13.Target.cs" />
+        <option value="$PROJECT_DIR$/Source/June13/June13.cpp" />
+        <option value="$PROJECT_DIR$/Source/June13/June13.h" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
     <option name="y" value="24" />
-    <option name="width" value="1248" />
-    <option name="height" value="1056" />
+    <option name="width" value="960" />
+    <option name="height" value="528" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="UE4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="June13UE4" type="47feb1d3:ProjectViewModuleNode" />
-            </path>
-            <path>
-              <item name="UE4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="June13UE4" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="June13UE4" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/UE_4.20-unstoppable/Engine/Binaries/Linux/UE4Editor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -239,7 +399,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.June13">
+  <component name="RunManager" selected="CMake Application.June13">
     <configuration name="BlankProgram-Linux-Debug" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Default" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -390,7 +550,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="June13" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="&quot;$PROJECT_DIR$/June13.uproject&quot;" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Default" RUN_PATH="$USER_HOME$/UE_4.20-unstoppable/Engine/Binaries/Linux/UE4Editor" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration name="June13" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="&quot;$PROJECT_DIR$/June13.uproject&quot;" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="June13" CONFIG_NAME="Default" RUN_PATH="$USER_HOME$/UE_4.20-unstoppable/Engine/Binaries/Linux/UE4Editor">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -415,7 +575,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="June13Editor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Default" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration name="June13Editor" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="&quot;$PROJECT_DIR$&quot;" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="June13Editor" CONFIG_NAME="Default" RUN_PATH="$USER_HOME$/UE_4.20-unstoppable/Engine/Binaries/Linux/UE4Editor">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -665,7 +825,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UE4Editor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Default" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration name="UE4Editor" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$USER_HOME$/UE_4.20-unstoppable" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="UE4Editor" CONFIG_NAME="Default" RUN_PATH="$USER_HOME$/UE_4.20-unstoppable/Engine/Binaries/Linux/UE4Editor">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -1001,157 +1161,157 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BlankProgram" />
-      <item itemvalue="Application.BlankProgram-Linux-Debug" />
-      <item itemvalue="Application.BlankProgram-Linux-DebugGame" />
-      <item itemvalue="Application.BlankProgram-Linux-Shipping" />
-      <item itemvalue="Application.BlankProgram-Linux-Test" />
-      <item itemvalue="Application.BootstrapPackagedGame" />
-      <item itemvalue="Application.BootstrapPackagedGame-Linux-Debug" />
-      <item itemvalue="Application.BootstrapPackagedGame-Linux-DebugGame" />
-      <item itemvalue="Application.BootstrapPackagedGame-Linux-Shipping" />
-      <item itemvalue="Application.BootstrapPackagedGame-Linux-Test" />
-      <item itemvalue="Application.BuildPatchTool" />
-      <item itemvalue="Application.BuildPatchTool-Linux-Debug" />
-      <item itemvalue="Application.BuildPatchTool-Linux-DebugGame" />
-      <item itemvalue="Application.BuildPatchTool-Linux-Shipping" />
-      <item itemvalue="Application.BuildPatchTool-Linux-Test" />
-      <item itemvalue="Application.CrashReportClient" />
-      <item itemvalue="Application.CrashReportClient-Linux-Debug" />
-      <item itemvalue="Application.CrashReportClient-Linux-DebugGame" />
-      <item itemvalue="Application.CrashReportClient-Linux-Shipping" />
-      <item itemvalue="Application.CrashReportClient-Linux-Test" />
-      <item itemvalue="Application.DsymExporter" />
-      <item itemvalue="Application.DsymExporter-Linux-Debug" />
-      <item itemvalue="Application.DsymExporter-Linux-DebugGame" />
-      <item itemvalue="Application.DsymExporter-Linux-Shipping" />
-      <item itemvalue="Application.DsymExporter-Linux-Test" />
-      <item itemvalue="Application.FakeTarget" />
-      <item itemvalue="Application.June13" />
-      <item itemvalue="Application.June13-Linux-Debug" />
-      <item itemvalue="Application.June13-Linux-DebugGame" />
-      <item itemvalue="Application.June13-Linux-Shipping" />
-      <item itemvalue="Application.June13-Linux-Test" />
-      <item itemvalue="Application.June13Editor" />
-      <item itemvalue="Application.June13Editor-Linux-Debug" />
-      <item itemvalue="Application.June13Editor-Linux-DebugGame" />
-      <item itemvalue="Application.June13Editor-Linux-Shipping" />
-      <item itemvalue="Application.June13Editor-Linux-Test" />
-      <item itemvalue="Application.MayaLiveLinkPlugin2016" />
-      <item itemvalue="Application.MayaLiveLinkPlugin2016-Linux-Debug" />
-      <item itemvalue="Application.MayaLiveLinkPlugin2016-Linux-DebugGame" />
-      <item itemvalue="Application.MayaLiveLinkPlugin2016-Linux-Shipping" />
-      <item itemvalue="Application.MayaLiveLinkPlugin2016-Linux-Test" />
-      <item itemvalue="Application.MayaLiveLinkPlugin2017" />
-      <item itemvalue="Application.MayaLiveLinkPlugin2017-Linux-Debug" />
-      <item itemvalue="Application.MayaLiveLinkPlugin2017-Linux-DebugGame" />
-      <item itemvalue="Application.MayaLiveLinkPlugin2017-Linux-Shipping" />
-      <item itemvalue="Application.MayaLiveLinkPlugin2017-Linux-Test" />
-      <item itemvalue="Application.MayaLiveLinkPlugin2018" />
-      <item itemvalue="Application.MayaLiveLinkPlugin2018-Linux-Debug" />
-      <item itemvalue="Application.MayaLiveLinkPlugin2018-Linux-DebugGame" />
-      <item itemvalue="Application.MayaLiveLinkPlugin2018-Linux-Shipping" />
-      <item itemvalue="Application.MayaLiveLinkPlugin2018-Linux-Test" />
-      <item itemvalue="Application.MinidumpDiagnostics" />
-      <item itemvalue="Application.MinidumpDiagnostics-Linux-Debug" />
-      <item itemvalue="Application.MinidumpDiagnostics-Linux-DebugGame" />
-      <item itemvalue="Application.MinidumpDiagnostics-Linux-Shipping" />
-      <item itemvalue="Application.MinidumpDiagnostics-Linux-Test" />
-      <item itemvalue="Application.ShaderCompileWorker" />
-      <item itemvalue="Application.ShaderCompileWorker-Linux-Debug" />
-      <item itemvalue="Application.ShaderCompileWorker-Linux-DebugGame" />
-      <item itemvalue="Application.ShaderCompileWorker-Linux-Shipping" />
-      <item itemvalue="Application.ShaderCompileWorker-Linux-Test" />
-      <item itemvalue="Application.SlateViewer" />
-      <item itemvalue="Application.SlateViewer-Linux-Debug" />
-      <item itemvalue="Application.SlateViewer-Linux-DebugGame" />
-      <item itemvalue="Application.SlateViewer-Linux-Shipping" />
-      <item itemvalue="Application.SlateViewer-Linux-Test" />
-      <item itemvalue="Application.SymbolDebugger" />
-      <item itemvalue="Application.SymbolDebugger-Linux-Debug" />
-      <item itemvalue="Application.SymbolDebugger-Linux-DebugGame" />
-      <item itemvalue="Application.SymbolDebugger-Linux-Shipping" />
-      <item itemvalue="Application.SymbolDebugger-Linux-Test" />
-      <item itemvalue="Application.TestPAL" />
-      <item itemvalue="Application.TestPAL-Linux-Debug" />
-      <item itemvalue="Application.TestPAL-Linux-DebugGame" />
-      <item itemvalue="Application.TestPAL-Linux-Shipping" />
-      <item itemvalue="Application.TestPAL-Linux-Test" />
-      <item itemvalue="Application.UE4Client" />
-      <item itemvalue="Application.UE4Client-Linux-Debug" />
-      <item itemvalue="Application.UE4Client-Linux-DebugGame" />
-      <item itemvalue="Application.UE4Client-Linux-Shipping" />
-      <item itemvalue="Application.UE4Client-Linux-Test" />
-      <item itemvalue="Application.UE4Editor" />
-      <item itemvalue="Application.UE4Editor-Linux-Debug" />
-      <item itemvalue="Application.UE4Editor-Linux-DebugGame" />
-      <item itemvalue="Application.UE4Editor-Linux-Shipping" />
-      <item itemvalue="Application.UE4Editor-Linux-Test" />
-      <item itemvalue="Application.UE4EditorServices" />
-      <item itemvalue="Application.UE4EditorServices-Linux-Debug" />
-      <item itemvalue="Application.UE4EditorServices-Linux-DebugGame" />
-      <item itemvalue="Application.UE4EditorServices-Linux-Shipping" />
-      <item itemvalue="Application.UE4EditorServices-Linux-Test" />
-      <item itemvalue="Application.UE4Game" />
-      <item itemvalue="Application.UE4Game-Linux-Debug" />
-      <item itemvalue="Application.UE4Game-Linux-DebugGame" />
-      <item itemvalue="Application.UE4Game-Linux-Shipping" />
-      <item itemvalue="Application.UE4Game-Linux-Test" />
-      <item itemvalue="Application.UE4Server" />
-      <item itemvalue="Application.UE4Server-Linux-Debug" />
-      <item itemvalue="Application.UE4Server-Linux-DebugGame" />
-      <item itemvalue="Application.UE4Server-Linux-Shipping" />
-      <item itemvalue="Application.UE4Server-Linux-Test" />
-      <item itemvalue="Application.UnrealAtoS" />
-      <item itemvalue="Application.UnrealAtoS-Linux-Debug" />
-      <item itemvalue="Application.UnrealAtoS-Linux-DebugGame" />
-      <item itemvalue="Application.UnrealAtoS-Linux-Shipping" />
-      <item itemvalue="Application.UnrealAtoS-Linux-Test" />
-      <item itemvalue="Application.UnrealCEFSubProcess" />
-      <item itemvalue="Application.UnrealCEFSubProcess-Linux-Debug" />
-      <item itemvalue="Application.UnrealCEFSubProcess-Linux-DebugGame" />
-      <item itemvalue="Application.UnrealCEFSubProcess-Linux-Shipping" />
-      <item itemvalue="Application.UnrealCEFSubProcess-Linux-Test" />
-      <item itemvalue="Application.UnrealFileServer" />
-      <item itemvalue="Application.UnrealFileServer-Linux-Debug" />
-      <item itemvalue="Application.UnrealFileServer-Linux-DebugGame" />
-      <item itemvalue="Application.UnrealFileServer-Linux-Shipping" />
-      <item itemvalue="Application.UnrealFileServer-Linux-Test" />
-      <item itemvalue="Application.UnrealFrontend" />
-      <item itemvalue="Application.UnrealFrontend-Linux-Debug" />
-      <item itemvalue="Application.UnrealFrontend-Linux-DebugGame" />
-      <item itemvalue="Application.UnrealFrontend-Linux-Shipping" />
-      <item itemvalue="Application.UnrealFrontend-Linux-Test" />
-      <item itemvalue="Application.UnrealHeaderTool" />
-      <item itemvalue="Application.UnrealHeaderTool-Linux-Debug" />
-      <item itemvalue="Application.UnrealHeaderTool-Linux-DebugGame" />
-      <item itemvalue="Application.UnrealHeaderTool-Linux-Shipping" />
-      <item itemvalue="Application.UnrealHeaderTool-Linux-Test" />
-      <item itemvalue="Application.UnrealLaunchDaemon" />
-      <item itemvalue="Application.UnrealLaunchDaemon-Linux-Debug" />
-      <item itemvalue="Application.UnrealLaunchDaemon-Linux-DebugGame" />
-      <item itemvalue="Application.UnrealLaunchDaemon-Linux-Shipping" />
-      <item itemvalue="Application.UnrealLaunchDaemon-Linux-Test" />
-      <item itemvalue="Application.UnrealLightmass" />
-      <item itemvalue="Application.UnrealLightmass-Linux-Debug" />
-      <item itemvalue="Application.UnrealLightmass-Linux-DebugGame" />
-      <item itemvalue="Application.UnrealLightmass-Linux-Shipping" />
-      <item itemvalue="Application.UnrealLightmass-Linux-Test" />
-      <item itemvalue="Application.UnrealPak" />
-      <item itemvalue="Application.UnrealPak-Linux-Debug" />
-      <item itemvalue="Application.UnrealPak-Linux-DebugGame" />
-      <item itemvalue="Application.UnrealPak-Linux-Shipping" />
-      <item itemvalue="Application.UnrealPak-Linux-Test" />
-      <item itemvalue="Application.UnrealVersionSelector" />
-      <item itemvalue="Application.UnrealVersionSelector-Linux-Debug" />
-      <item itemvalue="Application.UnrealVersionSelector-Linux-DebugGame" />
-      <item itemvalue="Application.UnrealVersionSelector-Linux-Shipping" />
-      <item itemvalue="Application.UnrealVersionSelector-Linux-Test" />
-      <item itemvalue="Application.UnrealWatchdog" />
-      <item itemvalue="Application.UnrealWatchdog-Linux-Debug" />
-      <item itemvalue="Application.UnrealWatchdog-Linux-DebugGame" />
-      <item itemvalue="Application.UnrealWatchdog-Linux-Shipping" />
-      <item itemvalue="Application.UnrealWatchdog-Linux-Test" />
+      <item itemvalue="CMake Application.BlankProgram" />
+      <item itemvalue="CMake Application.BlankProgram-Linux-Debug" />
+      <item itemvalue="CMake Application.BlankProgram-Linux-DebugGame" />
+      <item itemvalue="CMake Application.BlankProgram-Linux-Shipping" />
+      <item itemvalue="CMake Application.BlankProgram-Linux-Test" />
+      <item itemvalue="CMake Application.BootstrapPackagedGame" />
+      <item itemvalue="CMake Application.BootstrapPackagedGame-Linux-Debug" />
+      <item itemvalue="CMake Application.BootstrapPackagedGame-Linux-DebugGame" />
+      <item itemvalue="CMake Application.BootstrapPackagedGame-Linux-Shipping" />
+      <item itemvalue="CMake Application.BootstrapPackagedGame-Linux-Test" />
+      <item itemvalue="CMake Application.BuildPatchTool" />
+      <item itemvalue="CMake Application.BuildPatchTool-Linux-Debug" />
+      <item itemvalue="CMake Application.BuildPatchTool-Linux-DebugGame" />
+      <item itemvalue="CMake Application.BuildPatchTool-Linux-Shipping" />
+      <item itemvalue="CMake Application.BuildPatchTool-Linux-Test" />
+      <item itemvalue="CMake Application.CrashReportClient" />
+      <item itemvalue="CMake Application.CrashReportClient-Linux-Debug" />
+      <item itemvalue="CMake Application.CrashReportClient-Linux-DebugGame" />
+      <item itemvalue="CMake Application.CrashReportClient-Linux-Shipping" />
+      <item itemvalue="CMake Application.CrashReportClient-Linux-Test" />
+      <item itemvalue="CMake Application.DsymExporter" />
+      <item itemvalue="CMake Application.DsymExporter-Linux-Debug" />
+      <item itemvalue="CMake Application.DsymExporter-Linux-DebugGame" />
+      <item itemvalue="CMake Application.DsymExporter-Linux-Shipping" />
+      <item itemvalue="CMake Application.DsymExporter-Linux-Test" />
+      <item itemvalue="CMake Application.FakeTarget" />
+      <item itemvalue="CMake Application.June13" />
+      <item itemvalue="CMake Application.June13-Linux-Debug" />
+      <item itemvalue="CMake Application.June13-Linux-DebugGame" />
+      <item itemvalue="CMake Application.June13-Linux-Shipping" />
+      <item itemvalue="CMake Application.June13-Linux-Test" />
+      <item itemvalue="CMake Application.June13Editor" />
+      <item itemvalue="CMake Application.June13Editor-Linux-Debug" />
+      <item itemvalue="CMake Application.June13Editor-Linux-DebugGame" />
+      <item itemvalue="CMake Application.June13Editor-Linux-Shipping" />
+      <item itemvalue="CMake Application.June13Editor-Linux-Test" />
+      <item itemvalue="CMake Application.MayaLiveLinkPlugin2016" />
+      <item itemvalue="CMake Application.MayaLiveLinkPlugin2016-Linux-Debug" />
+      <item itemvalue="CMake Application.MayaLiveLinkPlugin2016-Linux-DebugGame" />
+      <item itemvalue="CMake Application.MayaLiveLinkPlugin2016-Linux-Shipping" />
+      <item itemvalue="CMake Application.MayaLiveLinkPlugin2016-Linux-Test" />
+      <item itemvalue="CMake Application.MayaLiveLinkPlugin2017" />
+      <item itemvalue="CMake Application.MayaLiveLinkPlugin2017-Linux-Debug" />
+      <item itemvalue="CMake Application.MayaLiveLinkPlugin2017-Linux-DebugGame" />
+      <item itemvalue="CMake Application.MayaLiveLinkPlugin2017-Linux-Shipping" />
+      <item itemvalue="CMake Application.MayaLiveLinkPlugin2017-Linux-Test" />
+      <item itemvalue="CMake Application.MayaLiveLinkPlugin2018" />
+      <item itemvalue="CMake Application.MayaLiveLinkPlugin2018-Linux-Debug" />
+      <item itemvalue="CMake Application.MayaLiveLinkPlugin2018-Linux-DebugGame" />
+      <item itemvalue="CMake Application.MayaLiveLinkPlugin2018-Linux-Shipping" />
+      <item itemvalue="CMake Application.MayaLiveLinkPlugin2018-Linux-Test" />
+      <item itemvalue="CMake Application.MinidumpDiagnostics" />
+      <item itemvalue="CMake Application.MinidumpDiagnostics-Linux-Debug" />
+      <item itemvalue="CMake Application.MinidumpDiagnostics-Linux-DebugGame" />
+      <item itemvalue="CMake Application.MinidumpDiagnostics-Linux-Shipping" />
+      <item itemvalue="CMake Application.MinidumpDiagnostics-Linux-Test" />
+      <item itemvalue="CMake Application.ShaderCompileWorker" />
+      <item itemvalue="CMake Application.ShaderCompileWorker-Linux-Debug" />
+      <item itemvalue="CMake Application.ShaderCompileWorker-Linux-DebugGame" />
+      <item itemvalue="CMake Application.ShaderCompileWorker-Linux-Shipping" />
+      <item itemvalue="CMake Application.ShaderCompileWorker-Linux-Test" />
+      <item itemvalue="CMake Application.SlateViewer" />
+      <item itemvalue="CMake Application.SlateViewer-Linux-Debug" />
+      <item itemvalue="CMake Application.SlateViewer-Linux-DebugGame" />
+      <item itemvalue="CMake Application.SlateViewer-Linux-Shipping" />
+      <item itemvalue="CMake Application.SlateViewer-Linux-Test" />
+      <item itemvalue="CMake Application.SymbolDebugger" />
+      <item itemvalue="CMake Application.SymbolDebugger-Linux-Debug" />
+      <item itemvalue="CMake Application.SymbolDebugger-Linux-DebugGame" />
+      <item itemvalue="CMake Application.SymbolDebugger-Linux-Shipping" />
+      <item itemvalue="CMake Application.SymbolDebugger-Linux-Test" />
+      <item itemvalue="CMake Application.TestPAL" />
+      <item itemvalue="CMake Application.TestPAL-Linux-Debug" />
+      <item itemvalue="CMake Application.TestPAL-Linux-DebugGame" />
+      <item itemvalue="CMake Application.TestPAL-Linux-Shipping" />
+      <item itemvalue="CMake Application.TestPAL-Linux-Test" />
+      <item itemvalue="CMake Application.UE4Client" />
+      <item itemvalue="CMake Application.UE4Client-Linux-Debug" />
+      <item itemvalue="CMake Application.UE4Client-Linux-DebugGame" />
+      <item itemvalue="CMake Application.UE4Client-Linux-Shipping" />
+      <item itemvalue="CMake Application.UE4Client-Linux-Test" />
+      <item itemvalue="CMake Application.UE4Editor" />
+      <item itemvalue="CMake Application.UE4Editor-Linux-Debug" />
+      <item itemvalue="CMake Application.UE4Editor-Linux-DebugGame" />
+      <item itemvalue="CMake Application.UE4Editor-Linux-Shipping" />
+      <item itemvalue="CMake Application.UE4Editor-Linux-Test" />
+      <item itemvalue="CMake Application.UE4EditorServices" />
+      <item itemvalue="CMake Application.UE4EditorServices-Linux-Debug" />
+      <item itemvalue="CMake Application.UE4EditorServices-Linux-DebugGame" />
+      <item itemvalue="CMake Application.UE4EditorServices-Linux-Shipping" />
+      <item itemvalue="CMake Application.UE4EditorServices-Linux-Test" />
+      <item itemvalue="CMake Application.UE4Game" />
+      <item itemvalue="CMake Application.UE4Game-Linux-Debug" />
+      <item itemvalue="CMake Application.UE4Game-Linux-DebugGame" />
+      <item itemvalue="CMake Application.UE4Game-Linux-Shipping" />
+      <item itemvalue="CMake Application.UE4Game-Linux-Test" />
+      <item itemvalue="CMake Application.UE4Server" />
+      <item itemvalue="CMake Application.UE4Server-Linux-Debug" />
+      <item itemvalue="CMake Application.UE4Server-Linux-DebugGame" />
+      <item itemvalue="CMake Application.UE4Server-Linux-Shipping" />
+      <item itemvalue="CMake Application.UE4Server-Linux-Test" />
+      <item itemvalue="CMake Application.UnrealAtoS" />
+      <item itemvalue="CMake Application.UnrealAtoS-Linux-Debug" />
+      <item itemvalue="CMake Application.UnrealAtoS-Linux-DebugGame" />
+      <item itemvalue="CMake Application.UnrealAtoS-Linux-Shipping" />
+      <item itemvalue="CMake Application.UnrealAtoS-Linux-Test" />
+      <item itemvalue="CMake Application.UnrealCEFSubProcess" />
+      <item itemvalue="CMake Application.UnrealCEFSubProcess-Linux-Debug" />
+      <item itemvalue="CMake Application.UnrealCEFSubProcess-Linux-DebugGame" />
+      <item itemvalue="CMake Application.UnrealCEFSubProcess-Linux-Shipping" />
+      <item itemvalue="CMake Application.UnrealCEFSubProcess-Linux-Test" />
+      <item itemvalue="CMake Application.UnrealFileServer" />
+      <item itemvalue="CMake Application.UnrealFileServer-Linux-Debug" />
+      <item itemvalue="CMake Application.UnrealFileServer-Linux-DebugGame" />
+      <item itemvalue="CMake Application.UnrealFileServer-Linux-Shipping" />
+      <item itemvalue="CMake Application.UnrealFileServer-Linux-Test" />
+      <item itemvalue="CMake Application.UnrealFrontend" />
+      <item itemvalue="CMake Application.UnrealFrontend-Linux-Debug" />
+      <item itemvalue="CMake Application.UnrealFrontend-Linux-DebugGame" />
+      <item itemvalue="CMake Application.UnrealFrontend-Linux-Shipping" />
+      <item itemvalue="CMake Application.UnrealFrontend-Linux-Test" />
+      <item itemvalue="CMake Application.UnrealHeaderTool" />
+      <item itemvalue="CMake Application.UnrealHeaderTool-Linux-Debug" />
+      <item itemvalue="CMake Application.UnrealHeaderTool-Linux-DebugGame" />
+      <item itemvalue="CMake Application.UnrealHeaderTool-Linux-Shipping" />
+      <item itemvalue="CMake Application.UnrealHeaderTool-Linux-Test" />
+      <item itemvalue="CMake Application.UnrealLaunchDaemon" />
+      <item itemvalue="CMake Application.UnrealLaunchDaemon-Linux-Debug" />
+      <item itemvalue="CMake Application.UnrealLaunchDaemon-Linux-DebugGame" />
+      <item itemvalue="CMake Application.UnrealLaunchDaemon-Linux-Shipping" />
+      <item itemvalue="CMake Application.UnrealLaunchDaemon-Linux-Test" />
+      <item itemvalue="CMake Application.UnrealLightmass" />
+      <item itemvalue="CMake Application.UnrealLightmass-Linux-Debug" />
+      <item itemvalue="CMake Application.UnrealLightmass-Linux-DebugGame" />
+      <item itemvalue="CMake Application.UnrealLightmass-Linux-Shipping" />
+      <item itemvalue="CMake Application.UnrealLightmass-Linux-Test" />
+      <item itemvalue="CMake Application.UnrealPak" />
+      <item itemvalue="CMake Application.UnrealPak-Linux-Debug" />
+      <item itemvalue="CMake Application.UnrealPak-Linux-DebugGame" />
+      <item itemvalue="CMake Application.UnrealPak-Linux-Shipping" />
+      <item itemvalue="CMake Application.UnrealPak-Linux-Test" />
+      <item itemvalue="CMake Application.UnrealVersionSelector" />
+      <item itemvalue="CMake Application.UnrealVersionSelector-Linux-Debug" />
+      <item itemvalue="CMake Application.UnrealVersionSelector-Linux-DebugGame" />
+      <item itemvalue="CMake Application.UnrealVersionSelector-Linux-Shipping" />
+      <item itemvalue="CMake Application.UnrealVersionSelector-Linux-Test" />
+      <item itemvalue="CMake Application.UnrealWatchdog" />
+      <item itemvalue="CMake Application.UnrealWatchdog-Linux-Debug" />
+      <item itemvalue="CMake Application.UnrealWatchdog-Linux-DebugGame" />
+      <item itemvalue="CMake Application.UnrealWatchdog-Linux-Shipping" />
+      <item itemvalue="CMake Application.UnrealWatchdog-Linux-Test" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -1164,36 +1324,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553388006057</updated>
-      <workItem from="1553388009487" duration="1387000" />
+      <workItem from="1553388009487" duration="2734000" />
+      <workItem from="1553392320078" duration="7000" />
+      <workItem from="1553392355356" duration="514000" />
+      <workItem from="1553393384910" duration="2156000" />
+      <workItem from="1553396146802" duration="5010000" />
+      <workItem from="1553405428387" duration="2595000" />
+      <workItem from="1553469978532" duration="14000" />
+      <workItem from="1553475728981" duration="934000" />
+      <workItem from="1553565455460" duration="1209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1387000" />
+    <option name="totallyTimeSpent" value="15654000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1985" y="-4" width="2495" height="1084" extended-state="6" />
-    <editor active="true" />
+    <frame x="960" y="24" width="960" height="528" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24989791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17177244" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="CMake" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297414" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info active="true" anchor="bottom" id="Messages" order="8" sideWeight="0.49916804" visible="true" weight="0.2275" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50083196" side_tool="true" weight="0.1869469" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1201,7 +1369,54 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="79" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/June13/Lobby/LobbyGameMode.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#80#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/June13/June13.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding>
+            <element signature="e#80#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/June13/June13.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/June13/TW/TWGameMode.cpp">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/June13/TW/TWGameMode.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/June13Editor.Target.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
     </entry>
   </component>
 </project>

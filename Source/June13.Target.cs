@@ -8,9 +8,6 @@ public class June13Target : TargetRules
 	public June13Target(TargetInfo Target) : base (Target)
 	{
 		Type = TargetType.Game;
-
 		ExtraModuleNames.Add("June13");
 	}
-
-
 }
